@@ -9,4 +9,4 @@ This guide covers:
 - Data streams for time-series data
 - Practical examples for production
 
-📄 See the full guide in [Elasticsearch_Data_Management.pdf]
+📄 See the full guide in [Elasticsearch_Data_Management.pdf](Elasticsearch_Data_Management.pdf)
